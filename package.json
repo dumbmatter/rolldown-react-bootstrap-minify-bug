@@ -1,0 +1,19 @@
+{
+  "name": "rolldown-react-bootstrap-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rolldown index.jsx --minify --file bundle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.25.0",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-bootstrap": "^2.10.10",
+    "rolldown": "1.0.0-beta.55"
+  },
+  "type": "module"
+}
